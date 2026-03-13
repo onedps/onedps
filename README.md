@@ -1,6 +1,5 @@
-{\definecolor{myLightBlue}{RGB}{173,216,230}}
 
-# $${\color{myLightBlue}Blue}$$
+# $${\color{{RGB}{173,216,230}}Blue}$$
 
 ```
 1
