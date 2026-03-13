@@ -1,5 +1,10 @@
 # My $${\color{ForestGreen}Por \color{LimeGreen}tfo \color{SpringGreen}lio}$$
 
-```
-1
-```
+### Hi there! Im Nick, and I am a UI, Games (Roblox), Cheats developer.
+
+# Skills
+
+| $${\color{Blue}Lua}$$ | $${\color{RoyalBlue}C \color{NavyBlue}+ \color{ProcessBlue}+}$$ |
+| ------------- | ------------- |
+| Object-oriented programming  | Memory and pointers  |
+| FFI  | Object-oriented programming |
