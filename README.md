@@ -1,1 +1,1 @@
-$${\color{red}Red}$$
+§red[Text]
