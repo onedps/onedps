@@ -4,8 +4,8 @@
 
 # Skills
 
-| What i know | Projects |
+| Language | What i know | Projects |
 | ------------- | ------------- |
-| $${\color{RoyalBlue}C \color{NavyBlue}+ \color{ProcessBlue}+}$$ | Object-oriented programming  | Memory and pointers  |
+| $${\color{RoyalBlue}C \color{NavyBlue}+ \color{ProcessBlue}+}$$ | Object-oriented programming | Memory and pointers |
 | $${\color{RoyalBlue}Lua}$$ | FFI  | Object-oriented programming |
 
