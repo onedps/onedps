@@ -1,7 +1,1 @@
-<code style="color : red">
-
-red
-
-
-
-</code>
+<code style="color : red">red</code>
