@@ -1,6 +1,6 @@
 # My $${\color{ForestGreen}Por \color{LimeGreen}tfo \color{SpringGreen}lio}$$
 
-## Hi there! Im Nick, and I am a UI, Games (Roblox), Cheats developer.
+## Hi there! Im Nick, and I am UI Designer/Lua, Cpp Coder.
 
 ## Skills
 | Language | What i know | Projects |
