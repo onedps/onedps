@@ -9,4 +9,4 @@
 | $${\color{RoyalBlue}Lua}$$ | FFI, Object-oriented programming | [Gravity Simulation on pixel screen](https://github.com/onedps/gravity_editable_image), [Easing (Animation) library](https://github.com/onedps/easing_library), [Wu Line modded on EditableImage](https://github.com/onedps/wu_line_editable), [Optimization, Updates on roblox game "TopSkin"](https://www.roblox.com/games/80946050663748/TopSkin), [Gamesense resolver](https://github.com/onedps/gamesense_resolver)
 
 ### Contact me
--- Discord: @one_dps
+- Discord: @one_dps
