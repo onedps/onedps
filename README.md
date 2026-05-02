@@ -10,10 +10,10 @@
 
 ### Сustomer reviews
 
-- VAHONS ```(@vahons)```
+- VAHONS ```@vahons```
 <img width="1123" height="78" alt="Discord_slCZtp95I8" src="https://github.com/user-attachments/assets/5cc2b7be-bc7a-4f14-aaba-d5ac1828ffaa" />
 
-- kustarnikOff ```(@_kustarnik_) ``` 
+- kustarnikOff ```@_kustarnik_``` 
 <img width="1162" height="80" alt="Discord_aLFbNqSaaT" src="https://github.com/user-attachments/assets/51777d16-fe96-4e14-8df0-e52dc9927f31" />
 
 ### Contact me
