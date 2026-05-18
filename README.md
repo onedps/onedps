@@ -1,6 +1,6 @@
 # My $${\color{ForestGreen}Por \color{LimeGreen}tfo \color{SpringGreen}lio}$$
 
-## Hi there! Im Nick, and I am UI Designer/Lua, Cpp Coder.
+## Hi there! Im Nick, and I am **Lua/Luau, C++ Coder**.
 
 ## Skills
 | Language | What i know | Projects |
