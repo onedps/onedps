@@ -6,7 +6,7 @@
 | Language | What i know | Projects |
 | ------------- | ------------- | ------------- |
 | $${\color{RoyalBlue}C \color{NavyBlue}+ \color{ProcessBlue}+}$$ | Object-oriented programming, Memory and pointers | $${\color{Orchid}Miracle}$$ (Cheat on CS:GO)
-| $${\color{RoyalBlue}Lua}$$ | FFI, Object-oriented programming | [Gravity EditableImage](https://github.com/onedps/gravity_editable_image), [Easing Library](https://github.com/onedps/easing_library), [Wu Line aa modded](https://github.com/onedps/wu_line_editable), [Updates on roblox game "TopSkin"](https://www.roblox.com/games/80946050663748/TopSkin), [Gamesense Resolver](https://github.com/onedps/gamesense_resolver), [BufferUtil](https://github.com/onedps/BufferUtil)
+| $${\color{RoyalBlue}Lua/Luau}$$ | FFI, Object-oriented programming, Memory (Buffer), Various Services | [Gravity EditableImage](https://github.com/onedps/gravity_editable_image), [Easing Library](https://github.com/onedps/easing_library), [Wu Line aa modded](https://github.com/onedps/wu_line_editable), [Updates on roblox game "TopSkin"](https://www.roblox.com/games/80946050663748/TopSkin), [Gamesense Resolver](https://github.com/onedps/gamesense_resolver), [BufferUtil](https://github.com/onedps/BufferUtil)
 
 ### Сustomer reviews
 
