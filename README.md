@@ -1,4 +1,4 @@
-<img width="846" height="115" src="https://github.com/user-attachments/assets/3c33c2af-03e8-4252-9d3a-da906b219d3f" />
+<img width="846" height="115" src="https://github.com/user-attachments/assets/de303db6-d425-48b5-97cc-e6c7e79f451a" />
 
 ## Skills
 | Language | Projects |
