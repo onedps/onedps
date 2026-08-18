@@ -3,8 +3,8 @@
 ## Skills
 | Language | Projects |
 | ------------- | ------------- |
-| ![](https://github.com/user-attachments/assets/9b0ca9d0-e780-417a-9309-a8351a315f03) | $${\color{Orchid}Miracle}$$ (Cheat on CS:GO)
-| $${\color{RoyalBlue}Lua/Luau}$$ | [Gravity EditableImage](https://github.com/onedps/gravity_editable_image), [Easing Library](https://github.com/onedps/easing_library), [Wu Line aa modded](https://github.com/onedps/wu_line_editable), [Updates on roblox game "TopSkin"](https://www.roblox.com/games/80946050663748/TopSkin), [Gamesense Resolver](https://github.com/onedps/gamesense_resolver), [BufferUtil](https://github.com/onedps/BufferUtil)
+| ![](https://github.com/user-attachments/assets/9b0ca9d0-e780-417a-9309-a8351a315f03) | ![Cheat on CS:GO](https://github.com/user-attachments/assets/f5e80534-4894-439d-87e5-7dfa5c14485e) (Cheat on CS:GO)
+| ![](https://github.com/user-attachments/assets/a76a4043-0e22-478f-a4e8-987048f6ccad) | [Gravity EditableImage](https://github.com/onedps/gravity_editable_image), [Easing Library](https://github.com/onedps/easing_library), [Wu Line aa modded](https://github.com/onedps/wu_line_editable), [Updates on roblox game "TopSkin"](https://www.roblox.com/games/80946050663748/TopSkin), [Gamesense Resolver](https://github.com/onedps/gamesense_resolver), [BufferUtil](https://github.com/onedps/BufferUtil)
 
 ### Сustomer reviews
 
@@ -16,3 +16,5 @@
 
 ### Contact me
 - Discord: @one_dps
+<img width="214" height="50" alt="Vector" src="https://github.com/user-attachments/assets/f5e80534-4894-439d-87e5-7dfa5c14485e" />
+
