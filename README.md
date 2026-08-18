@@ -10,7 +10,7 @@
 
 ### Сustomer reviews
 
-![](https://github.com/user-attachments/assets/5cc2b7be-bc7a-4f14-aaba-d5ac1828ffaa)
+<a>![](https://github.com/user-attachments/assets/5cc2b7be-bc7a-4f14-aaba-d5ac1828ffaa)</a>
 
 -------------------------------
 
