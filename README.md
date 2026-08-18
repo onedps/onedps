@@ -14,7 +14,7 @@
 
 -------------------------------
 
-<img width="1162" height="80" alt="Discord_aLFbNqSaaT" src="https://github.com/user-attachments/assets/51777d16-fe96-4e14-8df0-e52dc9927f31" />
+<a><img width="1162" height="80" alt="Discord_aLFbNqSaaT" src="https://github.com/user-attachments/assets/51777d16-fe96-4e14-8df0-e52dc9927f31" /></a>
 
 ### Contact me
 - Discord: @one_dps
