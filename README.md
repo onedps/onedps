@@ -3,7 +3,7 @@
 ## Skills
 | Language | Projects |
 | ------------- | ------------- |
-| $${\color{RoyalBlue}C \color{NavyBlue}+ \color{ProcessBlue}+}$$ | $${\color{Orchid}Miracle}$$ (Cheat on CS:GO)
+| ![](https://github.com/user-attachments/assets/1571d51d-eafb-473d-b359-01ff49405e14) | $${\color{Orchid}Miracle}$$ (Cheat on CS:GO)
 | $${\color{RoyalBlue}Lua/Luau}$$ | [Gravity EditableImage](https://github.com/onedps/gravity_editable_image), [Easing Library](https://github.com/onedps/easing_library), [Wu Line aa modded](https://github.com/onedps/wu_line_editable), [Updates on roblox game "TopSkin"](https://www.roblox.com/games/80946050663748/TopSkin), [Gamesense Resolver](https://github.com/onedps/gamesense_resolver), [BufferUtil](https://github.com/onedps/BufferUtil)
 
 ### Сustomer reviews
