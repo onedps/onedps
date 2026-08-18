@@ -2,9 +2,7 @@
 
 ## Hi there! Im Nick, and I am **Lua/Luau, C++ Coder**.
 
-Skills
--------------------------------
-
+## Skills
 | Language | Projects |
 | ------------- | ------------- |
 | $${\color{RoyalBlue}C \color{NavyBlue}+ \color{ProcessBlue}+}$$ | $${\color{Orchid}Miracle}$$ (Cheat on CS:GO)
