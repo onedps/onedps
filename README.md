@@ -10,7 +10,7 @@
 
 ### Сustomer reviews
 
-<img width="1123" height="78" alt="Discord_slCZtp95I8" src="https://github.com/user-attachments/assets/5cc2b7be-bc7a-4f14-aaba-d5ac1828ffaa" />
+![](https://github.com/user-attachments/assets/5cc2b7be-bc7a-4f14-aaba-d5ac1828ffaa)
 
 -------------------------------
 
