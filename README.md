@@ -1,6 +1,4 @@
-# **My $${\color{ForestGreen}Por \color{LimeGreen}tfo \color{SpringGreen}lio}$$**
-
-## Hi there! Im Nick, and I am **Lua/Luau, C++ Coder**.
+<img width="846" height="115" src="https://github.com/user-attachments/assets/92947402-6e6a-43a8-aa4e-8539e659b9fb" />
 
 ## Skills
 | Language | Projects |
