@@ -1,7 +1,7 @@
 ![](https://github.com/user-attachments/assets/41592eeb-3e9c-4ff6-b28a-a2f808940781)
 
 ## **About**
-14 y.o low-level graphics enginee, designer and founder of **[Bloom](https://github.com/FrameBuffer-Studio/Bloom)**.
+14 y.o low-level graphics engineer, designer and founder of **[Bloom](https://github.com/FrameBuffer-Studio/Bloom)**.
 Building user-friendly tools and library for developers.
 
 Discord: **@one_dps**
