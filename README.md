@@ -1,4 +1,4 @@
-![](https://github.com/user-attachments/assets/3cfac929-a0dc-4599-8184-ddb82ddbf904)
+![](https://github.com/user-attachments/assets/41592eeb-3e9c-4ff6-b28a-a2f808940781)
 
 ## **Skills**
 | **Language** | **Projects** |
